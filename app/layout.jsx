@@ -4,8 +4,8 @@ import Provider from '@components/Provider';
 
 
 export const metadata = {
-  title: "Promptopia",
-  description: "Discover & Share AI Prompts",
+  title: "Engineering Academy",
+  description: "Learn with AI powered Instructors",
 };
 const RootLayout = ({ children }) => (
   <html lang='en'>
